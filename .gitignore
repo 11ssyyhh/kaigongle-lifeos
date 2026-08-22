@@ -1,0 +1,12 @@
+node_modules/
+.tools/
+dist/
+dist-electron/
+.env.local
+*.log
+*.zip
+download
+HireMe AI.lnk
+*.db
+*.db-journal
+screenshots/
